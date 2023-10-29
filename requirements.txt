@@ -1,5 +1,6 @@
 python-telegram-bot==13.1
 transformers
+scipy
 diffusers[torch]==0.12.1
 openai
 cohere
